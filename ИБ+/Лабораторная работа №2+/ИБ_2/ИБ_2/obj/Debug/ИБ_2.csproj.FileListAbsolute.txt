@@ -1,0 +1,14 @@
+C:\Users\dimaa\source\repos\ИБ_2\ИБ_2\bin\Debug\ИБ_2.exe.config
+C:\Users\dimaa\source\repos\ИБ_2\ИБ_2\bin\Debug\ИБ_2.exe
+C:\Users\dimaa\source\repos\ИБ_2\ИБ_2\bin\Debug\ИБ_2.pdb
+C:\Users\dimaa\source\repos\ИБ_2\ИБ_2\obj\Debug\ИБ_2.csproj.AssemblyReference.cache
+C:\Users\dimaa\source\repos\ИБ_2\ИБ_2\obj\Debug\ИБ_2.csproj.CoreCompileInputs.cache
+C:\Users\dimaa\source\repos\ИБ_2\ИБ_2\obj\Debug\ИБ_2.exe
+C:\Users\dimaa\source\repos\ИБ_2\ИБ_2\obj\Debug\ИБ_2.pdb
+E:\Flashka\ИБ\Лабораторная работа №2\ИБ_2\ИБ_2\bin\Debug\ИБ_2.exe.config
+E:\Flashka\ИБ\Лабораторная работа №2\ИБ_2\ИБ_2\bin\Debug\ИБ_2.exe
+E:\Flashka\ИБ\Лабораторная работа №2\ИБ_2\ИБ_2\bin\Debug\ИБ_2.pdb
+E:\Flashka\ИБ\Лабораторная работа №2\ИБ_2\ИБ_2\obj\Debug\ИБ_2.csproj.AssemblyReference.cache
+E:\Flashka\ИБ\Лабораторная работа №2\ИБ_2\ИБ_2\obj\Debug\ИБ_2.csproj.CoreCompileInputs.cache
+E:\Flashka\ИБ\Лабораторная работа №2\ИБ_2\ИБ_2\obj\Debug\ИБ_2.exe
+E:\Flashka\ИБ\Лабораторная работа №2\ИБ_2\ИБ_2\obj\Debug\ИБ_2.pdb
